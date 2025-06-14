@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "/api/proxy"
+      "destination": "https://beaded-sale-839.notion.site/212c68cebfd080289c95d8b6822a59c8?v=212c68cebfd080489871000c9f02802d",
+      "permanent": false
     }
   ]
 }
